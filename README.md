@@ -36,7 +36,7 @@ _Please click on the images on right side to view my solution._
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/VlBGJgLoGIc)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-3_Decision_Tree.ipynb)
 
-### # Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
+### # Task-6 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 _Please click on the images on right side to view my solution._
 
 1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
@@ -46,7 +46,7 @@ _Please click on the images on right side to view my solution._
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/sL00unmrVKU)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-4_Stock_Price.ipynb)
 
-### # Task-4 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
+### # Task-7 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
 _Please click on the images on right side to view my solution._
 
 **NOTE : If you face any issue over dataset then please refer to the thread of [Issue #2](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/issues/2).**
@@ -60,7 +60,7 @@ _Please click on the images on right side to view my solution._
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/N4AFlnEoigk)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-5_Superstore.xlsx)
 
-### # Task-5 : To Explore Business Analytics (Level - Beginner & Intermediate)
+### # Task-8 : To Explore Business Analytics (Level - Beginner & Intermediate)
 _Please click on the images on right side to view my solution (preferably youtube)._
 
 1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
